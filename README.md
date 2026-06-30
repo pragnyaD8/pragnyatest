@@ -1,6 +1,6 @@
 ﻿# Deploy the Azure VM Inventory Workbook
 
-[![Deploy to Azure](https://aka.ms/deploytoazure)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FpragnyaD8%2Fpragnyatest%2Fmain%2Fazuredeploy_V2_Latest.json)
+[![Deploy to Azure](https://aka.ms/deploytoazure)](https://raw.githubusercontent.com/pragnyaD8/pragnyatest/main/azuredeploy_V2_Latest.json)
 
 
 You can deploy the workbook directly to your Azure environment using the button above.
